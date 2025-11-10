@@ -28,6 +28,6 @@ Systèmes bas niveau · Algorithmie · DevOps · Sécurité · <Autres>
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=blumbear&show_icons=true&hide_border=true" alt="Statistiques GitHub de blumbear" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blumbear&layout=compact&hide_border=true" alt="Langages les plus utilisés par blumbear" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=blumbear&show_icons=true&hide_border=true&theme=github_dark" alt="Statistiques GitHub de blumbear" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blumbear&layout=compact&hide_border=true&theme=github_dark" alt="Langages les plus utilisés par blumbear" />
 </p>
