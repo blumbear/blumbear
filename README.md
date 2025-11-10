@@ -1,5 +1,3 @@
-# 👋 Bonjour, je suis <TonNom>
-
 Étudiant à [42](https://42.fr/), passionné par le développement logiciel et les technologies open source.  
 Je m'intéresse particulièrement à la conception d’outils fiables, performants et maintenables.
 
@@ -30,8 +28,8 @@ Systèmes bas niveau · Algorithmie · DevOps · Sécurité · <Autres>
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<TonPseudo>&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Statistiques GitHub de <TonPseudo>" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TonPseudo>&layout=compact&hide_border=true" alt="Langages les plus utilisés par <TonPseudo>" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<blumbear>&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Statistiques GitHub de <blumbear>" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<blumbear>&layout=compact&hide_border=true" alt="Langages les plus utilisés par <blumbear>" />
 </p>
 
 ---
