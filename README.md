@@ -31,19 +31,3 @@ Systèmes bas niveau · Algorithmie · DevOps · Sécurité · <Autres>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=<blumbear>&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Statistiques GitHub de <blumbear>" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<blumbear>&layout=compact&hide_border=true" alt="Langages les plus utilisés par <blumbear>" />
 </p>
-
----
-
-## 📫 Me contacter
-
-- 💼 [LinkedIn](<TonLinkedIn>)  
-- 🌐 [Portfolio](<TonSiteWeb>)  
-- ✉️ <TonEmail>
-
----
-
-> _“La simplicité est la sophistication suprême.” — Léonard de Vinci_
-
----
-
-_Fichier README de profil généré à titre d’exemple — personnalisable selon ton style._
