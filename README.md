@@ -15,7 +15,7 @@ Je m'intéresse particulièrement à la conception d’outils fiables, performan
 ## 🛠️ Compétences techniques
 
 **Langages :**  
-C · C++ · Python · Shell · <Autres>
+C/C++ · Python · Shell · Assembleur x64
 
 **Outils & environnements :**  
 Git · Docker · Linux · VS Code · <Autres>
