@@ -1,12 +1,13 @@
 Étudiant à [42](https://42.fr/), passionné par le développement logiciel et les technologies open source.  
 Je m'intéresse particulièrement à la conception d’outils fiables, performants et maintenables.
+J'aime les language bas niveau tel que le C ou l'assembleur 64 bits.
 
 ---
 
 ## 🛠️ Tech Stack:
 
 **Langages :**  
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev) <img src="./images/x64_4022.webp" width="48" height="48"/>
 
 **Outils & environnements :**  
 [![Tools](https://skillicons.dev/icons?i=linux,windows,bash,git,vscode,docker)](https://skillicons.dev)
