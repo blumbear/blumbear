@@ -17,4 +17,4 @@ Systèmes bas niveau · Algorithmie · DevOps · Sécurité
 ---
 
 ## 📊 Statistiques GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=blumbear&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Stats](https://ghstats.dev/api/card?username=blumbear\&theme=radicale\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/blumbear)
