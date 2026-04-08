@@ -4,13 +4,13 @@ J'aime les language bas niveau tel que le C ou l'assembleur 64 bits.
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
 **Langages :**  
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev) <img src="./images/x64_4022.webp" width="48" height="48"/>
+![Skills](https://skillicons.dev/icons?i=c,cpp,python) <img src="./images/x64_4022.webp" width="48" height="48"/>
 
 **Outils & environnements :**  
-[![Tools](https://skillicons.dev/icons?i=linux,windows,bash,git,vscode,docker)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=linux,windows,bash,git,vscode,docker)
 
 **Centres d’intérêt techniques :**  
 Systèmes bas niveau · Algorithmie · DevOps · Sécurité
@@ -19,3 +19,6 @@ Systèmes bas niveau · Algorithmie · DevOps · Sécurité
 
 ## 📊 Statistiques GitHub
 [![GitHub Stats](https://ghstats.dev/api/card?username=blumbear\&theme=radicale\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/blumbear)
+
+## Liens 
+[![Tools](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ttaquet/)
