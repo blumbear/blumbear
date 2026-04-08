@@ -18,10 +18,10 @@ Je m'intéresse particulièrement à la conception d’outils fiables, performan
 C/C++ · Python · Shell · Assembleur x64
 
 **Outils & environnements :**  
-Git · Docker · Linux · VS Code · <Autres>
+Git · Docker · Linux · VS Code
 
 **Centres d’intérêt techniques :**  
-Systèmes bas niveau · Algorithmie · DevOps · Sécurité · <Autres>
+Systèmes bas niveau · Algorithmie · DevOps · Sécurité
 
 ---
 
