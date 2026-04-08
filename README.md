@@ -6,13 +6,11 @@ Je m'intéresse particulièrement à la conception d’outils fiables, performan
 ## 🧠 À propos de moi
 
 - 🎓 Étudiant à l'école 42  
-- 💼 En recherche de stage / opportunités dans le développement logiciel  
-- 🚀 Toujours curieux d'apprendre de nouvelles technologies et d'améliorer mes compétences  
 - 📚 Actuellement en train d’approfondir : <C, C++, asm 64, python>  
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Tech Stack:
 
 **Langages :**  
 C/C++ · Python · Shell · Assembleur x64
