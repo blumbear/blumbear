@@ -20,5 +20,8 @@ Systèmes bas niveau · Algorithmie · DevOps · Sécurité
 ## 📊 Statistiques GitHub
 [![GitHub Stats](https://ghstats.dev/api/card?username=blumbear\&theme=radicale\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/blumbear)
 
+## Certification
+<img src="./images/EnglishForIt1.png" width="110" height="110"/>
+
 ## Liens 
 [![Tools](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ttaquet/)
