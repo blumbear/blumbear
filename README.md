@@ -6,14 +6,13 @@ Je m'intéresse particulièrement à la conception d’outils fiables, performan
 ## 🧠 À propos de moi
 
 - 🎓 Étudiant à l'école 42  
-- 📚 Actuellement en train d’approfondir : <C, C++, asm 64, python>  
 
 ---
 
 ## 🛠️ Tech Stack:
 
 **Langages :**  
-C/C++ · Python · Shell · Assembleur x64
+![test](.images/C.svg)
 
 **Outils & environnements :**  
 Git · Docker · Linux · VS Code
