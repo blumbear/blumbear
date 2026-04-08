@@ -8,7 +8,7 @@ Je m'intéresse particulièrement à la conception d’outils fiables, performan
 - 🎓 Étudiant à l'école 42  
 - 💼 En recherche de stage / opportunités dans le développement logiciel  
 - 🚀 Toujours curieux d'apprendre de nouvelles technologies et d'améliorer mes compétences  
-- 📚 Actuellement en train d’approfondir : <sujet actuel, ex. C, C++, réseaux, architecture système>  
+- 📚 Actuellement en train d’approfondir : <C, C++, asm 64, python>  
 
 ---
 
