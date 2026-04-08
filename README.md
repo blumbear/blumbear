@@ -3,19 +3,13 @@ Je m'intéresse particulièrement à la conception d’outils fiables, performan
 
 ---
 
-## 🧠 À propos de moi
-
-- 🎓 Étudiant à l'école 42  
-
----
-
 ## 🛠️ Tech Stack:
 
 **Langages :**  
-![test](.images/C.svg)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
 **Outils & environnements :**  
-Git · Docker · Linux · VS Code
+[![Tools](https://skillicons.dev/icons?i=linux,windows,bash,git,vscode,docker)](https://skillicons.dev)
 
 **Centres d’intérêt techniques :**  
 Systèmes bas niveau · Algorithmie · DevOps · Sécurité
